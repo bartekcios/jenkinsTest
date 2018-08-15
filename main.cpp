@@ -4,6 +4,7 @@ using namespace std;
 
 int main(int charc, char* argv[])
 {
-    cout << "Run!" << charc << endl;
+    cout << "Run! or..."  << endl;
+    cout << "Stay!" << endl;
     return 0;
 }
